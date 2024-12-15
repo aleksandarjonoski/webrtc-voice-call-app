@@ -1,6 +1,6 @@
 # WebRTC Voice Relay Application
 
-This project demonstrates a WebRTC-based Voice over IP (VoIP) application that connects multiple clients via a signaling server and forwards audio streams through the server (instead of peer-to-peer). The application includes a Go backend for signaling and audio forwarding, and a LitElement-based frontend to interact with WebRTC.
+This project demonstrates a WebRTC-based application that connects multiple clients via a signaling server and forwards audio streams through the server (instead of peer-to-peer). The application includes a Go backend for signaling and audio forwarding, and a LitElement-based frontend to interact with WebRTC.
 
 ## Features
 - Server-forwarded audio streams (not peer-to-peer).
